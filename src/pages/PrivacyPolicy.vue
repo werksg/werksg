@@ -10,7 +10,6 @@
 <script>
 import NavigationBar from "../components/Navigation.vue";
 import Footer from "../components/Footer.vue";
-import PrivacyPolicyData from "../data/privacyPolicy.json";
 
 export default {
   components: { NavigationBar, Footer },

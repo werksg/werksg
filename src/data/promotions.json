@@ -1,0 +1,10 @@
+{
+  "posts": [
+    {
+      "id": "post1",
+      "image": "../assets/banner1.png"
+    },
+    { "id": "post2", "image": "../assets/banner2.png" },
+    { "id": "post3", "image": "../assets/banner3.png" }
+  ]
+}
