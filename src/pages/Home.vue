@@ -4,8 +4,7 @@
     <div class="container mx-auto">
       <div class="flex flex-col items-center justify-center pt-16 pb-8">
         <h1 class="text-5xl font-bold leading-tight">
-          Connecting People,<br />
-          Transforming Lives
+          List, Connect, Get Hired
         </h1>
         <div
           style="width: max-content"
@@ -46,7 +45,7 @@ export default {
     return {};
   },
   created() {
-    document.title = "Werk | Connecting People, Transforming Lives";
+    document.title = "Werk | List, Connect, Get Hired";
   },
 };
 </script>
